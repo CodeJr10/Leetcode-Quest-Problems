@@ -40,17 +40,6 @@ Leetcode-Quest-Problems/
 | 1470 | [Shuffle the Array](./Q2-Shuffle-the-Array/README.md) | 🟢 Easy | Arrays | [Java](./Q2-Shuffle-the-Array/Solution.java) |
 | 485 | [Max Consecutive Ones](./Q3-Max-Consecutive-Ones/README.md) | 🟢 Easy | Arrays | [Java](./Q3-Max-Consecutive-Ones/Solution.java) |
 
----
-
-## 📊 Progress
-
-| Difficulty | Solved |
-|---|---|
-| 🟢 Easy | 3 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-
----
 
 ## 🛠️ Language
 
