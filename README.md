@@ -45,10 +45,3 @@ Leetcode-Quest-Problems/
 
 All solutions are written in **Java**.
 
----
-
-## 📌 Note
-
-Each problem folder contains:
-- `Solution.java` — the actual code
-- `README.md` — problem statement, approach, walkthrough, and complexity analysis
