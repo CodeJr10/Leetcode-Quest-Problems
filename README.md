@@ -41,7 +41,3 @@ Leetcode-Quest-Problems/
 | 485 | [Max Consecutive Ones](./Q3-Max-Consecutive-Ones/README.md) | 🟢 Easy | Arrays | [Java](./Q3-Max-Consecutive-Ones/Solution.java) |
 
 
-## 🛠️ Language
-
-All solutions are written in **Java**.
-
